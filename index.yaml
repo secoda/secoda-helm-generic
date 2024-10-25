@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  secoda:
+  - apiVersion: v2
+    appVersion: 7.0.1
+    created: "2024-10-25T19:21:39.949370742Z"
+    description: Helm Chart for Secoda
+    digest: 2f4b84b8a989b07bc9d5102ceb88ce41894e7df8487535bec889a4c2f3c7b332
+    name: secoda
+    type: application
+    urls:
+    - https://github.com/secoda/secoda-helm-generic/releases/download/secoda-7.0.1/secoda-7.0.1.tgz
+    version: 7.0.1
+generated: "2024-10-25T19:21:39.949381492Z"
